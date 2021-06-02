@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rage
+  - Water
+  - Key
+  - Arrow
+  - Bomb
+  - Enemy
+  - HealingPot
+  - SpeedBoost
+  - Blue
+  - Green
+  - Red
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Actors
+  - Enemy
+  - Player
+  - Ground
+  - HitBox
+  - NavMesh
+  - CameraBlock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 877060881
+    locked: 0
+  - name: Forground
+    uniqueID: 488741571
+    locked: 0
+  - name: Props
+    uniqueID: 2829820989
+    locked: 0
+  - name: Platforms
+    uniqueID: 2095281479
+    locked: 0
+  - name: Enemies
+    uniqueID: 2608572243
+    locked: 0
+  - name: Player
+    uniqueID: 930628453
+    locked: 0
+  - name: Pickupbles
+    uniqueID: 2380151187
+    locked: 0
+  - name: Throwable
+    uniqueID: 885864813
+    locked: 0
+  - name: UI
+    uniqueID: 2256063481
+    locked: 0
+  - name: ParticleSystem
+    uniqueID: 3107380403
+    locked: 0
